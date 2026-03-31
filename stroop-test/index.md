@@ -50,18 +50,7 @@
 
 ---
 
-### 三、平台差异说明
-
-| 平台 | 本地存储 | iCloud 同步 | 本地通知 |
-|------|----------|-------------|----------|
-| iOS  | ✅ 加密存储 | ✅ 可选 | ✅ 支持 |
-| macOS | ✅ 加密存储 | ✅ 可选 | ✅ 支持 |
-| Android | ✅ 加密存储 | ❌ 不支持 | ✅ 支持 |
-| Web | ❌ 不持久化 | ❌ 不支持 | ❌ 不支持 |
-
----
-
-### 四、第三方服务
+### 三、第三方服务
 
 本应用仅集成以下第三方服务，请参阅其各自隐私政策：
 
@@ -69,25 +58,25 @@
 
 ---
 
-### 五、数据保留
+### 四、数据保留
 
 训练数据仅存储在您的本地设备及您的 iCloud 账户中。卸载本应用将删除所有本地数据；iCloud 数据可在 iCloud 设置中手动删除。您也可在应用内"设置 → 危险操作 → 删除所有训练数据"中一键清除全部本地记录。
 
 ---
 
-### 六、儿童隐私
+### 五、儿童隐私
 
 本应用不针对 13 岁以下儿童，不会有意收集未成年人信息。
 
 ---
 
-### 七、政策变更
+### 六、政策变更
 
 如本政策发生重大变更，我们将通过应用内通知告知您。
 
 ---
 
-### 八、联系我们
+### 七、联系我们
 
 如有任何隐私相关问题，请通过以下方式联系我们：
 
@@ -140,18 +129,7 @@ Your language, trial count, vibration, and timer display preferences are saved l
 
 ---
 
-### 3. Platform Differences
-
-| Platform | Local Storage | iCloud Sync | Local Notifications |
-|----------|--------------|-------------|---------------------|
-| iOS  | ✅ Encrypted | ✅ Optional | ✅ Supported |
-| macOS | ✅ Encrypted | ✅ Optional | ✅ Supported |
-| Android | ✅ Encrypted | ❌ Not available | ✅ Supported |
-| Web | ❌ Not persisted | ❌ Not available | ❌ Not supported |
-
----
-
-### 4. Third-Party Services
+### 3. Third-Party Services
 
 This app integrates only the following third-party service. Please refer to its privacy policy:
 
@@ -159,25 +137,25 @@ This app integrates only the following third-party service. Please refer to its 
 
 ---
 
-### 5. Data Retention
+### 4. Data Retention
 
 Training data exists only on your device and in your iCloud account. Uninstalling the app removes all local data. iCloud data can be deleted manually via iCloud settings. You may also delete all local training records at any time via **Settings → Danger Zone → Delete All Training Data** within the app.
 
 ---
 
-### 6. Children's Privacy
+### 5. Children's Privacy
 
 This app is not directed at children under 13 and we do not knowingly collect information from minors.
 
 ---
 
-### 7. Changes to This Policy
+### 6. Changes to This Policy
 
 We will notify you of significant changes through an in-app notice.
 
 ---
 
-### 8. Contact
+### 7. Contact
 
 For privacy inquiries, please contact us at:
 
