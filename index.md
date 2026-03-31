@@ -5,8 +5,9 @@ Developer: c8n1ao
 ---
 
 | App | Privacy Policy |
-|-----|---------------|
+|-----|----------------|
 | 舒尔特方格 (Schulte Grid) | [查看 / View](./schulte-grid/) |
+| Stroop Test | [查看 / View](./stroop-test/) |
 
 ---
 
