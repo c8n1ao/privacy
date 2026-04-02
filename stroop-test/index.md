@@ -1,6 +1,6 @@
 # 隐私政策 / Privacy Policy
 
-**Stroop Test**
+**Stroop Training**
 
 最后更新 / Last updated: 2026年3月 / March 2026
 
@@ -50,7 +50,18 @@
 
 ---
 
-### 三、第三方服务
+### 三、平台差异说明
+
+| 平台 | 本地存储 | iCloud 同步 | 本地通知 |
+|------|----------|-------------|----------|
+| iOS  | ✅ 加密存储 | ✅ 可选 | ✅ 支持 |
+| macOS | ✅ 加密存储 | ✅ 可选 | ✅ 支持 |
+| Android | ✅ 加密存储 | ❌ 不支持 | ✅ 支持 |
+| Web | ❌ 不持久化 | ❌ 不支持 | ❌ 不支持 |
+
+---
+
+### 四、第三方服务
 
 本应用仅集成以下第三方服务，请参阅其各自隐私政策：
 
@@ -58,25 +69,25 @@
 
 ---
 
-### 四、数据保留
+### 五、数据保留
 
 训练数据仅存储在您的本地设备及您的 iCloud 账户中。卸载本应用将删除所有本地数据；iCloud 数据可在 iCloud 设置中手动删除。您也可在应用内"设置 → 危险操作 → 删除所有训练数据"中一键清除全部本地记录。
 
 ---
 
-### 五、儿童隐私
+### 六、儿童隐私
 
 本应用不针对 13 岁以下儿童，不会有意收集未成年人信息。
 
 ---
 
-### 六、政策变更
+### 七、政策变更
 
 如本政策发生重大变更，我们将通过应用内通知告知您。
 
 ---
 
-### 七、联系我们
+### 八、联系我们
 
 如有任何隐私相关问题，请通过以下方式联系我们：
 
@@ -126,6 +137,17 @@ Your language, trial count, vibration, and timer display preferences are saved l
 - We do not use any third-party analytics or crash-reporting services
 - We never sell or share your data with third parties
 - We cannot access your iCloud data
+
+---
+
+### 3. Platform Differences
+
+| Platform | Local Storage | iCloud Sync | Local Notifications |
+|----------|--------------|-------------|---------------------|
+| iOS  | ✅ Encrypted | ✅ Optional | ✅ Supported |
+| macOS | ✅ Encrypted | ✅ Optional | ✅ Supported |
+| Android | ✅ Encrypted | ❌ Not available | ✅ Supported |
+| Web | ❌ Not persisted | ❌ Not available | ❌ Not supported |
 
 ---
 
