@@ -52,8 +52,8 @@
 
 本应用集成以下第三方服务，请参阅其各自隐私政策：
 
+- Apple CloudKit（仅 iOS / macOS）：https://www.apple.com/legal/privacy/
 - Google AdMob：https://policies.google.com/privacy
-- Apple CloudKit：https://www.apple.com/legal/privacy/
 
 ---
 

@@ -1,6 +1,6 @@
 # 隐私政策 / Privacy Policy
 
-**SpatiaQ · 空间商 IQ 训练应用**
+**Spatial IQ · 空间商 IQ 训练应用**
 
 最后更新 / Last updated: 2026年4月 / April 2026
 
@@ -57,6 +57,7 @@
 本应用仅集成以下第三方服务，请参阅其各自隐私政策：
 
 - Apple CloudKit（仅 iOS / macOS）：https://www.apple.com/legal/privacy/
+- Google AdMob：https://policies.google.com/privacy
 
 ---
 
